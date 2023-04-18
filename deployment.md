@@ -9,6 +9,13 @@ Tools we are using:
 - GitHub Projects (instead of Trello)
 - Discord (instead of Slacks)
 
+For our wordpress website, we will need 5 pages:
+- Home
+- About
+- Registration
+- Contact
+- Services
+
 > *You only need to put your **custom theme folder** or **wp-content folder** under git (don't include core WordPress files). It should be kept up-to-date throughout the project. **Every** team member must commit to this repository so that there is evidence of each member's contribution (see a2 pdf project management).*
 
 Things we could use:
