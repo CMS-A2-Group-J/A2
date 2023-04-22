@@ -24,3 +24,7 @@ This is where we keep resource links, could be articles we found worth discussio
   - Auto upload backup files to 3rd party cloud storage (check later see if free version meets our need)
 - [WPvivid Backup](https://wordpress.org/plugins/wpvivid-backuprestore/)
   - Plugin for creating staging website
+- [Backuply](https://wordpress.org/plugins/backuply/)
+  - Plugin to create backups and help in restoration of the website
+- [Speedycache](https://wordpress.org/plugins/speedycache/)
+  - Plugin to reduce latency and load time on the website...
