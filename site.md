@@ -11,4 +11,5 @@ Provides instructions on to maintain/update website.
 
 ## Site title
 To the purpose of SEO, increasing our rank on search engine, the title of our site will include hot topic such as 'python tutor', 'math tutor', 'scienc tutor', 'homework help', etc.
-[SEO keyword](./images/keyword.png)
+
+![SEO keyword](./images/keyword.png)
