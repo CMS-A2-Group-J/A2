@@ -8,3 +8,7 @@ This is where we keep relevant information (I think mostly design decisions) abo
 - colors
 
 > e.g. Color Palette <br> primary color: #1452b5; <br> secondary color: #2d8fa1; <br> text color: #404145; <br>  body font size: 1.2rem; <br>...
+
+## WP theme template
+The theme we chose is [Blocksy](https://wordpress.org/themes/blocksy/), it only serves as a startup template, no more addon is used.
+
