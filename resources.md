@@ -27,4 +27,6 @@ This is where we keep resource links, could be articles we found worth discussio
 - [Backuply](https://wordpress.org/plugins/backuply/)
   - Plugin to create backups and help in restoration of the website
 - [Speedycache](https://wordpress.org/plugins/speedycache/)
-  - Plugin to reduce latency and load time on the website...
+  - Plugin to reduce latency and load time on the website.
+- [Smart Slider 3](https://wordpress.org/plugins/smart-slider-3/)
+  - Allows for the easy and intuitive method to create and add sliders to the site.
