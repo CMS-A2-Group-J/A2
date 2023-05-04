@@ -42,5 +42,7 @@ For schedule site, we are using plugin [Timetable and Event Schedule](https://fr
 
 week days from Monday to Sunday are set as `Columns`. If user wishes to change timetable, edit `Events` to add or update course on timetable.
 
+To update price table on courses, straightly edit tables in WordPress schedule page.
+
 ### Registration
 
