@@ -1,41 +1,44 @@
 # Deployment Workflow
 
-## Project management
-Things we need:
 - Staging site
+  - For staging site, we require admin/user to use `localhost` as staging site.
 - Live site
+  - Our live server is at: https://baizonnlearning.click
 
+## Project management
 Tools we are using:
-- GitHub Projects (instead of Trello)
-- Discord (instead of Slacks)
-
-For our wordpress website, we will need 5 pages:
-- Home
-- About
-- Registration
-- Contact
-- Services
-
-> *You only need to put your **custom theme folder** or **wp-content folder** under git (don't include core WordPress files). It should be kept up-to-date throughout the project. **Every** team member must commit to this repository so that there is evidence of each member's contribution (see a2 pdf project management).*
-
-Things we could use:
-- Stand-up meetings (preferably daily, at least every other day), see lecture 06 slides page 3
+- [GitHub Projects](https://github.com/orgs/CMS-A2-Group-J/projects/1)
+  - For porject management, we create a new iteration every week, then add and update tasks to indicate development progess.
+- [Discord](https://discord.gg/82SSbSvv)
+  - We are using discord for all group communication activities, including daily standup, collaboration works, and sharing resource materials.
 
 ## Version control
-- See if we need to use Git as version control for WP files.
-  - This may require to set up git in AWS Lightsail
+- GitHub
+  - For all php files (theme etc.), use this [repo](https://github.com/cMS-A2-Group-J/a2) to store.
 - Backup plugin & backup policy
+  - Everyday, admins need to create backup at `live server` using [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/), download backup file name it as `backup-YYYY-MM-DD`.
+  - Retention policy: all backup files must keep for 30 days before deletion.
 
+## Testing
+Before update or add any content on WordPress webiste, admins or authors will need to read and follow the rules stated below.
 
-## Testing and automation
-- Do research on CI/CD tools for WP
+### General Rules
+Steps to follow to add/update content:
+1. Create backup at `live server` using [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/), and download backup file (**backup-old**).
+2. Import **backup-old** into `localhost`, to set up localhost as `staging site`.
+3. Test new content and make sure there are no conflict. After everything tested out, create a new backup file at localhost (**backup-new**).
+4. Import **backup-new** into `live server` to migrate new content. Keep the **backup-old** for 30 days until deletion.
 
-## Update page
-### Home
-how to update home page ...
-### About
-### Post
-### Schedule
+### Update Pages
+There are five pages on our wordpress website, here are decriptions of how to make update on those pages:
+
+#### Home
+TODO: how to update home page ...
+#### About
+TODO: how to update about page ...
+#### Post
+TODO: how to update post page ...
+#### Schedule
 For schedule site, we are using plugin [Timetable and Event Schedule](https://fr.wordpress.org/plugins/mp-timetable/) to create timetable. In WordPress admin page, go to plugin timetable
 
 <img src="images/timetable.png" width="100px"/>
@@ -44,5 +47,8 @@ week days from Monday to Sunday are set as `Columns`. If user wishes to change t
 
 To update price table on courses, straightly edit tables in WordPress schedule page.
 
-### Registration
+#### Registration
+TODO: how to update registration page ...
 
+## Automation
+TODO: research and add this part ...
