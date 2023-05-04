@@ -1,8 +1,12 @@
 # CMS A2 Group J
 
-This file should provide **basic overview** and **links** to the other documentation files.
+This is the README file for Group J WordPress website, it provides a overview for important information about our website and how it's set up.
 
-## Links
-this is an example of how to link to other files in this relative path
+## Getting Started
+Our website is hosted on [AWS Lightsail](https://aws.amazon.com/lightsail/), under domain https://baizonnlearning.click. The WordPress version we are started with is WP v6.2.
 
-- e.g. see [site.md](site.md) for details on how to maintain and update this WP website.
+## Support
+- See [deployment](deployment.md) for details on project management, version control, testing and automation.
+- See [site](site.md) for details on how to maintain and update this WP website.
+- See [theme](theme.md) for details on how to continue developing our theme.
+

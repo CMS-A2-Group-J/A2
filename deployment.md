@@ -1,10 +1,9 @@
 # Deployment Workflow
-
+## Stage & Live
 - Staging site
   - For staging site, we require admin/user to use `localhost` as staging site.
 - Live site
   - Our live server is at: https://baizonnlearning.click
-
 ## Project management
 Tools we are using:
 - [GitHub Projects](https://github.com/orgs/CMS-A2-Group-J/projects/1)
