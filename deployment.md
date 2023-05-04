@@ -29,3 +29,18 @@ Things we could use:
 
 ## Testing and automation
 - Do research on CI/CD tools for WP
+
+## Update page
+### Home
+how to update home page ...
+### About
+### Post
+### Schedule
+For schedule site, we are using plugin [Timetable and Event Schedule](https://fr.wordpress.org/plugins/mp-timetable/) to create timetable. In WordPress admin page, go to plugin timetable
+
+<img src="images/timetable.png" width="100px"/>
+
+week days from Monday to Sunday are set as `Columns`. If user wishes to change timetable, edit `Events` to add or update course on timetable.
+
+### Registration
+
