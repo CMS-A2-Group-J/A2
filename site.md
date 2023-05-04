@@ -42,13 +42,15 @@ Steps to follow to add/update content:
 2. Create backup at `live server` using [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/), and download backup file (**backup-old**).
 3. Import **backup-old** into `localhost`, to set up localhost as `staging site`.
 4. Test new content and make sure there are no conflict. After everything tested out, create a new backup file at localhost (**backup-new**).
-5. Import **backup-new** into `live server` to migrate new content. Keep the **backup-old** for 30 days until deletion.
+5. Import **backup-new** into `live se plugin.ver` to migrate new content. Keep the **backup-old** for 30 days until deletion.
 
 ### Update Pages
 There are five pages on our wordpress website, here are decriptions of how to make update on those pages:
 
 #### Home
-TODO: how to update home page ...
+The Home Page utilizes the [Smart Slider 3] plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides.
+
+To modify the rest of the content, edit it from the Wordpress Page Editor.
 #### About
 TODO: how to update about page ...
 #### Post
