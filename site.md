@@ -48,7 +48,7 @@ Steps to follow to add/update content:
 There are five pages on our wordpress website, here are decriptions of how to make update on those pages:
 
 #### Home
-The Home Page utilizes the [Smart Slider 3](https://wordpress.org/plugins/smart-slider-3/) plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides.
+The Home Page utilizes the [Smart Slider 3](https://smartslider3.com/) plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides.
 
 To modify the rest of the content, edit it from the Wordpress Page Editor.
 #### About
