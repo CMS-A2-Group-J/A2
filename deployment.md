@@ -30,8 +30,8 @@ Steps to follow to add/update content:
 
 ## Automation
 There are many plug-ins in WP provide users with automation to reduce manual labour and management overhead, we are using few of them including:
-1. [Akismet Anti-Spam: Spam Protection](https://wordpress.org/plugins/akismet/): one of the most trusted antispam solution for WordPress websites, which protect websites from spam comments and spam contact forms.
-2. [Advanced WordPress Reset](https://wordpress.org/plugins/advanced-wp-reset/k): completely clean up database, plug-ins and themes. At the beginning stage of development, when developers trying out different themes, often conflicts occur and sometimes those are unfixable, then a quick full reset will comes handy.
+1. [Akismet Anti-Spam: Spam Protection](https://wordpress.org/plugins/akismet/): one of the most trusted anti-spam solution for WordPress websites, which protect websites from spam comments and spam contact forms.
+2. [Advanced WordPress Reset](https://wordpress.org/plugins/advanced-wp-reset/k): completely clean up database, plug-ins and themes. At the beginning stage of development, when developers are trying out different themes, conflicts error often occur and sometimes they are unfixable, so a quick full reset will comes handy.
 3. [Shield Security](https://wordpress.org/plugins/wp-simple-firewall/): a security plugin which provides Bot detection and IP blocking.
 4. [BackWPup](): backup plugin that is capable of creating a cronjob for scheduled backup.  
 > We backup site data weekly on every Sunday 03:00 am 
