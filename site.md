@@ -33,26 +33,18 @@ Popup Background Image:
 <img src="./images/popup_bg.gif" width="300px" />
 
 ## Pages
+> Before update or add any content on WordPress webiste, admins or authors will need to read and follow [General Rules](deployment.md###General-Rules) in deployment.md for policies and guidelines.
 
-Before update or add any content on WordPress webiste, admins or authors will need to read and follow the rules stated below.
-
-### General Rules
-Steps to follow to add/update content:
-1. For content creation, use accounts associated with one of those four roles: 'Author', 'Contributor', 'Editor', 'Subscriber'. Unless absolutely necessary, **do not** use 'Admin' account for creating new content.
-2. Create backup at `live server` using [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/), and download backup file (**backup-old**).
-3. Import **backup-old** into `localhost`, to set up localhost as `staging site`.
-4. Test new content and make sure there are no conflict. After everything tested out, create a new backup file at localhost (**backup-new**).
-5. Import **backup-new** into `live se plugin.ver` to migrate new content. Keep the **backup-old** for 30 days until deletion.
-
-### Update Pages
 There are five pages on our wordpress website, here are descriptions of how to make update on those pages:
-
 #### Home
 The Home Page utilizes the [Smart Slider 3](https://smartslider3.com/) plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides.
 
+<img src="images/smart_slider.png" width="600px" />
+
 To modify the rest of the content, edit it from the Wordpress Page Editor.
 #### About
-TODO: how to update about page ...
+For about page, we are displaying information to help visitors get to know about Baizonn Learning Center. This is a page where we are introducing visitors with our lovely staff members; showing our history, values, goals and mottos; displaying awards that are marks of recognition of our professionalism and achievements; and providing customers with maps for three types of transportation vehicles (MRT, bus, and car).
+
 #### Post
 The post pages contains articles that are divided into two simple categories, **learning** and **events**. The **Learning** categories covers all the informative and spruce articles while **Events** category contains information surrounding the learning centre i.e. live events, open houses and parties... 
 
