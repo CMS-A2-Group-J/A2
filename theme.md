@@ -1,14 +1,34 @@
 # Theme
 
-This is where we keep relevant information (I think mostly design decisions) about our theme.
-
-- what features our theme has
-- files that need editing
-- design decisions
-- colors
-
-> e.g. Color Palette <br> primary color: #1452b5; <br> secondary color: #2d8fa1; <br> text color: #404145; <br>  body font size: 1.2rem; <br>...
-
 ## WP theme template
 The theme we chose is [Blocksy](https://wordpress.org/themes/blocksy/), it only serves as a startup template, no more addon is used.
 
+## Color 
+### color paletee
+```
+--lapis-lazuli: #005b99ff;
+--teal: #008080ff;
+--celadon: #8fd8a0ff;
+--light-green: #98ff98ff;
+--light-sky-blue: #87cefaff;
+```
+### site color customization
+<img src="images/site-color.png" width="400px" />
+
+From left to right:
+- color 1: #005b99ff;
+- color 2: #005b99ff;
+- color 3: #008080ff;
+- color 4: #005b99ff;
+- color 5: #87cefaff;
+- color 6: #f2f5f7;
+- color 7: #fafbfc;
+- color 8: #ffffff;
+
+## Layout and Typography
+- The content width is set to `70%` on all pages;
+- Separator margin (top & bottom): 6;
+- H1 font size: default large (36px);
+- H2 font size: 32px;
+- For last component on each page, margin bottom: 6;
+- Paragraph font size: default(16px);
