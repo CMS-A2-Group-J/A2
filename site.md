@@ -33,7 +33,7 @@ Popup Background Image:
 <img src="./images/popup_bg.gif" width="300px" />
 
 ## Pages
-> Before update or add any content on WordPress webiste, admins or authors will need to read and follow [General Rules](deployment.md#general-rules) in deployment.md for policies and guidelines.
+> Before update or add any content on WordPress webiste, admins or authors will need to read and follow [General Rules](https://github.com/CMS-A2-Group-J/A2/blob/main/deployment.md#general-rules) in deployment.md for policies and guidelines.
 
 There are five pages on our wordpress website, here are descriptions of how to make update on those pages:
 #### Home
