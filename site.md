@@ -45,7 +45,7 @@ Steps to follow to add/update content:
 5. Import **backup-new** into `live se plugin.ver` to migrate new content. Keep the **backup-old** for 30 days until deletion.
 
 ### Update Pages
-There are five pages on our wordpress website, here are decriptions of how to make update on those pages:
+There are five pages on our wordpress website, here are descriptions of how to make update on those pages:
 
 #### Home
 The Home Page utilizes the [Smart Slider 3](https://smartslider3.com/) plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides.
@@ -54,7 +54,9 @@ To modify the rest of the content, edit it from the Wordpress Page Editor.
 #### About
 TODO: how to update about page ...
 #### Post
-TODO: how to update post page ...
+The post pages contains articles that are divided into two simple categories, **learning** and **events**. The **Learning** categories covers all the informative and spruce articles while **Events** category contains information surrounding the learning centre i.e. live events, open houses and parties... 
+
+To update articles, visit the `post` option in the Wordpress Dashboard.
 #### Schedule
 For schedule site, we are using plugin [Timetable and Event Schedule](https://fr.wordpress.org/plugins/mp-timetable/) to create timetable. In WordPress admin page, go to plugin timetable
 
