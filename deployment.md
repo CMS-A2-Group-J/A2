@@ -7,11 +7,11 @@
 ## Project management
 Tools we are using:
 - [GitHub Projects](https://github.com/orgs/CMS-A2-Group-J/projects/1)
-  - For porject management, we create a new iteration every week, then add and update tasks to indicate development progess.
+  - For project management, we create a new iteration every week, then add and update tasks to indicate development progess.
 - [Discord](https://discord.gg/82SSbSvv)
   - We are using discord for all group communication activities, including daily standup, collaboration works, and sharing resource materials.
 
-## Version control
+## Version Control
 - GitHub
   - For all php files (theme etc.), use this [repo](https://github.com/cMS-A2-Group-J/a2) to store.
 - Backup plugin & backup policy
