@@ -26,7 +26,7 @@ From left to right:
 - color 8: #ffffff;
 
 ## Layout and Typography
-- The content width is set to `70%` on all pages;
+- The content width is set between `70%` to `90%` on all pages;
 - Separator margin (top & bottom): 6;
 - H1 font size: default large (36px);
 - H2 font size: 32px;

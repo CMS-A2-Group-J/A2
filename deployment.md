@@ -19,6 +19,15 @@ Tools we are using:
   - Retention policy: all backup files must keep for 30 days before deletion.
 
 ## Testing
-TODO: research and add this part ...
+Before update or add any content on WordPress webiste, admins or authors will need to read and follow the rules stated below.
+### General Rules
+Steps to follow to add/update content:
+1. For content creation, use accounts associated with one of those four roles: 'Author', 'Contributor', 'Editor', 'Subscriber'. Unless absolutely necessary, **do not** use 'Admin' account for creating new content.
+2. Create backup at `live server` using [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/), and download backup file (**backup-old**).
+3. Import **backup-old** into `localhost`, to set up localhost as `staging site`.
+4. Test new content and make sure there are no conflict. After everything tested out, create a new backup file at localhost (**backup-new**).
+5. Import **backup-new** into `live se plugin.ver` to migrate new content. Keep the **backup-old** for 30 days until deletion.
+
+
 ## Automation
 TODO: research and add this part ...
