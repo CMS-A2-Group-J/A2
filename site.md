@@ -14,7 +14,9 @@ After doing some research, we picked a few hot keywords (in Singapore) from 'pyt
 ## Icon
 icon image: `Center_Logo_1`
 
-![Center Logo 1](./images/Centre_Logo_1.jpg)
+<center>
+<img src="./images/Centre_Logo_1.jpg" />
+</center>
 
 ## Header
 The Header section is composited of three parts: icon, menu, and social links. 
@@ -30,7 +32,9 @@ Using plugin [hustle](https://wordpress.org/plugins/wordpress-popup/) to create 
 
 Popup Background Image:
 
+<center>
 <img src="./images/popup_bg.gif" width="300px" />
+</center>
 
 ## Pages
 > Before update or add any content on WordPress webiste, admins or authors will need to read and follow [General Rules](deployment.md###General-Rules) in deployment.md for policies and guidelines.
@@ -38,6 +42,10 @@ Popup Background Image:
 There are five pages on our wordpress website, here are descriptions of how to make update on those pages:
 #### Home
 The Home Page utilizes the [Smart Slider 3](https://smartslider3.com/) plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides.
+
+<center>
+<img src="images/smart_slider.png" width="600px" />
+</center>
 
 To modify the rest of the content, edit it from the Wordpress Page Editor.
 #### About
@@ -50,7 +58,9 @@ To update articles, visit the `post` option in the Wordpress Dashboard.
 #### Schedule
 For schedule site, we are using plugin [Timetable and Event Schedule](https://fr.wordpress.org/plugins/mp-timetable/) to create timetable. In WordPress admin page, go to plugin timetable
 
+<center>
 <img src="images/timetable.png" width="100px"/>
+</center>
 
 week days from Monday to Sunday are set as `Columns`. If user wishes to change timetable, edit `Events` to add or update course on timetable.
 

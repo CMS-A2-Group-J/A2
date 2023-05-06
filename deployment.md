@@ -7,11 +7,11 @@
 ## Project management
 Tools we are using:
 - [GitHub Projects](https://github.com/orgs/CMS-A2-Group-J/projects/1)
-  - For project management, we create a new iteration every week, then add and update tasks to indicate development progess.
+  - For porject management, we create a new iteration every week, then add and update tasks to indicate development progess.
 - [Discord](https://discord.gg/82SSbSvv)
   - We are using discord for all group communication activities, including daily standup, collaboration works, and sharing resource materials.
 
-## Version Control
+## Version control
 - GitHub
   - For all php files (theme etc.), use this [repo](https://github.com/cMS-A2-Group-J/a2) to store.
 - Backup plugin & backup policy
@@ -19,7 +19,6 @@ Tools we are using:
   - Retention policy: all backup files must keep for 30 days before deletion.
 
 ## Testing
-Before update or add any content on WordPress webiste, admins or authors will need to read and follow the rules stated below.
 ### General Rules
 Steps to follow to add/update content:
 1. For content creation, use accounts associated with one of those four roles: 'Author', 'Contributor', 'Editor', 'Subscriber'. Unless absolutely necessary, **do not** use 'Admin' account for creating new content.
