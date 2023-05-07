@@ -63,5 +63,4 @@ The registration page concerns gathering information from user regarding their s
 
 For registation site, we are using plugin [Wordpress Forms](https://fr.wordpress.org/plugins/WPforms/) to create forms. In wordpress admin page, go to puglins, and find plugin reffered to as WPforms Lite.
 
-
 <img src="images/registration.png" width='150px"/>
