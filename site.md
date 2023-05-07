@@ -62,5 +62,3 @@ To update price table on courses, straightly edit tables in WordPress schedule p
 The registration page concerns gathering information from user regarding their specific need requirements for the content present on the site. Upon collecting the user's ifformation, it is stored in a repository with their contact information attributed to each submission. The content display corresponds to all type of classes that can be scheduled.
 
 For registation site, we are using plugin [Wordpress Forms](https://fr.wordpress.org/plugins/WPforms/) to create forms. In wordpress admin page, go to puglins, and find plugin reffered to as WPforms Lite.
-
-<img src="images/registration.png" width='150px"/>
