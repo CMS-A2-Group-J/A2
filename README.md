@@ -3,7 +3,7 @@
 This is the README file for Group J WordPress website, it provides a overview for important information about our website and how it's set up.
 
 ## Getting Started
-Our website is hosted on [AWS Lightsail](https://aws.amazon.com/lightsail/), under domain https://baizonnlearning.click. The WordPress version we are started with is WP v6.2.
+Our website is hosted on [AWS Lightsail](https://aws.amazon.com/lightsail/), under domain https://baizonnlearning.click. The WordPress version we started with is WP v6.2.
 
 ## Support
 - See [deployment](deployment.md) for details on project management, version control, testing and automation.
