@@ -37,7 +37,7 @@ Popup Background Image:
 
 There are five pages on our wordpress website, here are descriptions of how to make update on those pages:
 #### Home
-The Home Page utilizes the [Smart Slider 3](https://smartslider3.com/) plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides.
+The Home Page utilizes the [Smart Slider 3](https://smartslider3.com/) plugin. You can customize the smart slider 3 plugin by going to the Smart Slider section of the Admin Dashboard. Click on the Home Page slider to edit it. You can customize the slides or add new slides. The home page is mostly utilized to display the most essential piece of information to deliver to visitors. Such as our motto, and what we do.
 
 <img src="images/smart_slider.png" width="600px" />
 
@@ -59,6 +59,6 @@ week days from Monday to Sunday are set as `Columns`. If user wishes to change t
 To update price table on courses, straightly edit tables in WordPress schedule page.
 
 #### Registration
-The registration page concerns gathering information from user regarding their specific need requirements for the content present on the site. Upon collecting the user's ifformation, it is stored in a repository with their contact information attributed to each submission. The content display corresponds to all type of classes that can be scheduled.
+The registration page concerns gathering information from user regarding their specific need requirements for the content present on the site. Upon collecting the user's information, it is stored in a repository with their contact information attributed to each submission. The content display corresponds to all type of classes that can be scheduled.
 
-For registation site, we are using plugin [Wordpress Forms](https://fr.wordpress.org/plugins/WPforms/) to create forms. In wordpress admin page, go to puglins, and find plugin reffered to as WPforms Lite.
+For registation site, we are using plugin [Wordpress Forms](https://fr.wordpress.org/plugins/WPforms/) to create forms. In wordpress admin page, go to plugins, and find plugin referred to as WPforms Lite.
